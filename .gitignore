@@ -13,3 +13,7 @@ bld.bat
 *.xyz
 GoodVibes_test.dat
 .idea/
+goodvibes/methane.log
+goodvibes/thermp.py
+goodvibes/untitled1.py
+goodvibes_test
